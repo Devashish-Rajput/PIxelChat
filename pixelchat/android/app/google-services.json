@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807735795872",
+    "firebase_url": "https://pixelchat-app.firebaseio.com",
+    "project_id": "pixelchat-app",
+    "storage_bucket": "pixelchat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807735795872:android:ae7d44da5f402da7a929c5",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807735795872-eufe0vb2qfebtgm09cqjnaubf4iqggpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "781f07575a717fd1b472108825c2170f909712e3"
+          }
+        },
+        {
+          "client_id": "807735795872-bt5qgd1nbjbphe2tb0o5ohrujnualk7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YT7GIHg2-0ZtF_QlNivMjt8xWRuu22Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807735795872-bt5qgd1nbjbphe2tb0o5ohrujnualk7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
